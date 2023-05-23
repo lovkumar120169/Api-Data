@@ -11,7 +11,7 @@
       "isCompleted": false
     }
   ],
-  "mens" :[
+  "mens": [
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/products\/front_6420a0b9-a9ed-4fc8-81ca-d0e54c1a1a4f.png?v=1675427632",
      "image2": "https:\/\/www.koovs.com\/cdn\/shop\/files\/back_07bda5f0-1212-4e92-8afd-5372d3b868f5.png?v=1682847227&amp;width=360",
@@ -3330,18 +3330,7 @@
      "gender": "men",
      "id": 264
     },
-    {
-     "image1": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "brand": "Koovs",
-     "info": "Bless my feed Coin Bucket Hat",
-     "price": 1490,
-     "oprice": 1490,
-     "color": "Brown",
-     "description": "Introducing the \"Bless My Feed\" Brown Suede Coin Bucket Hat, the perfect accessory for anyone...",
-     "category": "accessories",
-     "gender": "men",
-     "id": 265
-    },
+    null,
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/products\/1_1229812d-b7e5-4d1b-853e-a0fa62fcc010.jpg?v=1681213897",
      "image2": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
@@ -3355,32 +3344,8 @@
      "gender": "men",
      "id": 266
     },
-    {
-     "image1": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "image2": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "brand": "Koovs",
-     "info": "Machine Gun Baseball Cap",
-     "price": 990,
-     "oprice": 990,
-     "color": "Black",
-     "description": "The Tropical Soul baseball cap is a fun and stylish accessory made from 100% cotton...",
-     "category": "accessories",
-     "gender": "men",
-     "id": 267
-    },
-    {
-     "image1": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "image2": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "brand": "Koovs",
-     "info": "Machine Gun Baseball Cap",
-     "price": 990,
-     "oprice": 990,
-     "color": "Black",
-     "description": "The Tropical Soul baseball cap is a fun and stylish accessory made from 100% cotton...",
-     "category": "accessories",
-     "gender": "men",
-     "id": 268
-    },
+    null,
+    null,
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/products\/1_aa8f85a3-7a24-4f49-8702-c9bafa3ac251.jpg?v=1684232104",
      "image2": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
@@ -3394,64 +3359,11 @@
      "gender": "men",
      "id": 269
     },
-    {
-     "image1": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "image2": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "brand": "Koovs",
-     "info": "Tropical Soul Baseball Cap",
-     "price": 990,
-     "oprice": 990,
-     "color": "White",
-     "description": "The Tropical Soul baseball cap is a fun and stylish accessory made from 100% cotton...",
-     "category": "accessories",
-     "gender": "men",
-     "id": 270
-    },
-    {
-     "image1": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "brand": "Koovs",
-     "info": "Unfortunate Cookie Pin",
-     "price": 790,
-     "oprice": 790,
-     "color": "Green",
-     "description": "Introducing the \"Unfortunate Cookie\" green colored pin made of durable metal! This quirky accessory is...",
-     "category": "accessories",
-     "gender": "men",
-     "id": 271
-    },
-    {
-     "image1": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "brand": "Koovs",
-     "info": "Bless my feed Pin",
-     "price": 790,
-     "oprice": 790,
-     "description": "Introducing the \"Bless my feed\" pin made of durable metal! This quirky accessory is perfect...",
-     "category": "accessories",
-     "gender": "men",
-     "id": 272
-    },
-    {
-     "image1": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "brand": "Koovs",
-     "info": "Never Lechewgo Pin",
-     "price": 790,
-     "oprice": 790,
-     "description": "Introducing the Never Lechewgo pin, the perfect accessory for those who want to send a...",
-     "category": "accessories",
-     "gender": "men",
-     "id": 273
-    },
-    {
-     "image1": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "brand": "Koovs",
-     "info": "Gram worthy Pin",
-     "price": 590,
-     "oprice": 590,
-     "description": "Introducing the Gram Worthy pin, the perfect accessory for those who want to add a...",
-     "category": "accessories",
-     "gender": "men",
-     "id": 274
-    },
+    null,
+    null,
+    null,
+    null,
+    null,
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/products\/3_709bea75-b00a-46db-9a33-88f05a0d2e0e.jpg?v=1678963071",
      "image2": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
@@ -3465,71 +3377,11 @@
      "gender": "men",
      "id": 275
     },
-    {
-     "image1": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "image2": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "brand": "Koovs",
-     "info": "Midnight shade sunglasses",
-     "price": 999,
-     "oprice": 999,
-     "color": "Black",
-     "description": "Introducing Koovs sunglasses - the ultimate fashion accessory for the modern and trendy youth. Our...",
-     "category": "accessories",
-     "gender": "men",
-     "id": 276
-    },
-    {
-     "image1": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "image2": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "brand": "Koovs",
-     "info": "Blue Panthera Sunglasses",
-     "price": 999,
-     "oprice": 999,
-     "color": "Black",
-     "description": "Introducing Koovs sunglasses - the ultimate fashion accessory for the modern and trendy youth. Our...",
-     "category": "accessories",
-     "gender": "men",
-     "id": 277
-    },
-    {
-     "image1": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "image2": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "brand": "Koovs",
-     "info": "Mocha roundabout sunglasses",
-     "price": 999,
-     "oprice": 999,
-     "color": "Black",
-     "description": "Introducing Koovs sunglasses - the ultimate fashion accessory for the modern and trendy youth. Our...",
-     "category": "accessories",
-     "gender": "men",
-     "id": 278
-    },
-    {
-     "image1": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "image2": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "brand": "Koovs",
-     "info": "Cocoa Cat Eye Sunglasses",
-     "price": 999,
-     "oprice": 999,
-     "color": "Black",
-     "description": "Introducing Koovs sunglasses - the ultimate fashion accessory for the modern and trendy youth. Our...",
-     "category": "accessories",
-     "gender": "men",
-     "id": 279
-    },
-    {
-     "image1": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "image2": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "brand": "Koovs",
-     "info": "Hickory ridge shades sunglasses",
-     "price": 999,
-     "oprice": 999,
-     "color": "Brown",
-     "description": "Introducing Koovs sunglasses - the ultimate fashion accessory for the modern and trendy youth. Our...",
-     "category": "accessories",
-     "gender": "men",
-     "id": 280
-    },
+    null,
+    null,
+    null,
+    null,
+    null,
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/products\/3_109b42f7-8899-4e87-96a0-c4e0a5817d37.jpg?v=1678962653",
      "image2": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
@@ -3543,19 +3395,7 @@
      "gender": "men",
      "id": 281
     },
-    {
-     "image1": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "image2": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
-     "brand": "Koovs",
-     "info": "Sunset sunglasses",
-     "price": 999,
-     "oprice": 999,
-     "color": "Black",
-     "description": "Introducing Koovs sunglasses - the ultimate fashion accessory for the modern and trendy youth. Our...",
-     "category": "accessories",
-     "gender": "men",
-     "id": 282
-    },
+    null,
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/products\/3_1cc69283-54bc-48a5-a7d8-e12f1067650a.jpg?v=1678962179",
      "image2": "https:\/\/www.koovs.com\/collections\/unisex-accessories",
@@ -4045,7 +3885,6 @@
     },
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/products\/TCCM2202BLUE0361_800x_97dbc06c-0d25-4317-8084-ec6395e1f7a1.webp?v=1671193628",
-     "image2": "https:\/\/www.koovs.com\/collections\/men-outerwear",
      "brand": "The Couture Club",
      "info": "Distorted Smile Varsity Jacket - Yellow",
      "price": 10000,
@@ -4058,7 +3897,6 @@
     },
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/products\/T3M21-10GREEN_b_800x_07c40885-d4fb-4c9b-87bf-2863cc823c4c.jpg?v=1671193412",
-     "image2": "https:\/\/www.koovs.com\/collections\/men-outerwear",
      "brand": "The Couture Club",
      "info": "College Green Varsity Bomber Jacket - Green",
      "price": 10600,
@@ -4071,7 +3909,6 @@
     },
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/products\/EmptyName_b_800x_38bd8e73-b704-47d2-a977-4c998cc8ec68.webp?v=1671193746",
-     "image2": "https:\/\/www.koovs.com\/collections\/men-outerwear",
      "brand": "The Couture Club",
      "info": "Laurel Panelled Varsity Jacket - Purple",
      "price": 10000,
@@ -4084,7 +3921,6 @@
     },
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/products\/koovs_20oct22-1839.jpg?v=1668090121",
-     "image2": "https:\/\/www.koovs.com\/collections\/men-outerwear",
      "brand": "Kangol",
      "info": "KG Frisco Liner",
      "price": 3490,
@@ -4107,21 +3943,9 @@
      "gender": "men",
      "id": 325
     },
-    {
-     "image1": "https:\/\/www.koovs.com\/collections\/men-outerwear",
-     "brand": "Kangol",
-     "info": "Kangol X Schott Sage Gilet",
-     "price": 6990,
-     "oprice": 6990,
-     "color": "Olive",
-     "description": "Puffer gilet with zipper fastening, low cut standing collar,&nbsp;slant welt pockets. Comes with brand patch...",
-     "category": "jacket",
-     "gender": "men",
-     "id": 326
-    },
+    null,
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/files\/shu_18.6.211072.jpg?v=1684238314",
-     "image2": "https:\/\/www.koovs.com\/collections\/men-outerwear",
      "brand": "SHU",
      "info": "Ripstop unisex poncho",
      "price": 7790,
@@ -4134,7 +3958,6 @@
     },
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/files\/shu_30.6.211971.jpg?v=1684238314",
-     "image2": "https:\/\/www.koovs.com\/collections\/men-outerwear",
      "brand": "SHU",
      "info": "Ripstop unisex poncho",
      "price": 7790,
@@ -4147,7 +3970,6 @@
     },
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/files\/83.jpg?v=1684238314",
-     "image2": "https:\/\/www.koovs.com\/collections\/men-outerwear",
      "brand": "SHU",
      "info": "Ripstop unisex poncho",
      "price": 7790,
@@ -4160,7 +3982,6 @@
     },
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/products\/tccm2131black9087_800x-jpg.webp?v=1668165620",
-     "image2": "https:\/\/www.koovs.com\/collections\/men-outerwear",
      "brand": "The Couture Club",
      "info": "Yellow Badged Varsity Bomber Jacket - Black",
      "price": 7990,
@@ -4171,22 +3992,9 @@
      "gender": "men",
      "id": 330
     },
-    {
-     "image1": "https:\/\/www.koovs.com\/collections\/men-outerwear",
-     "image2": "https:\/\/www.koovs.com\/collections\/men-outerwear",
-     "brand": "The Couture Club",
-     "info": "Spade Applique Red Varsity Jacket - Red",
-     "price": 6990,
-     "oprice": 4893,
-     "color": "Red",
-     "description": "Get ready to turn heads with the Spade Applique Red Varsity Jacket, the ultimate statement...",
-     "category": "jacket",
-     "gender": "men",
-     "id": 331
-    },
+    null,
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/files\/shu_18.6.211079.jpg?v=1684238531",
-     "image2": "https:\/\/www.koovs.com\/collections\/men-outerwear",
      "brand": "SHU",
      "info": "Ripstop Unisex Trench Coat",
      "price": 7990,
@@ -4199,7 +4007,6 @@
     },
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/files\/shu_18.6.211021.jpg?v=1684238531",
-     "image2": "https:\/\/www.koovs.com\/collections\/men-outerwear",
      "brand": "SHU",
      "info": "Ripstop Unisex Trench Coat",
      "price": 7990,
@@ -4212,7 +4019,6 @@
     },
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/files\/shu_18.6.210999.jpg?v=1684238531",
-     "image2": "https:\/\/www.koovs.com\/collections\/men-outerwear",
      "brand": "SHU",
      "info": "Ripstop Unisex Trench Coat",
      "price": 7990,
@@ -4223,44 +4029,11 @@
      "gender": "men",
      "id": 334
     },
-    {
-     "image1": "https:\/\/www.koovs.com\/collections\/men-outerwear",
-     "brand": "Garcon",
-     "info": "Long Sleeve Quilted Jacket",
-     "price": 3199,
-     "oprice": 1599,
-     "description": "Quilted Jacket Full&nbsp;Sleeved Rib Finish at the Hemlines Brand logo on the Side Chest Model...",
-     "category": "jacket",
-     "gender": "men",
-     "id": 335
-    },
-    {
-     "image1": "https:\/\/www.koovs.com\/collections\/men-outerwear",
-     "image2": "https:\/\/www.koovs.com\/collections\/men-outerwear",
-     "brand": "Garcon",
-     "info": "Long Sleeve Quilted Jacket",
-     "price": 3199,
-     "oprice": 1599,
-     "description": "Quilted Jacket Full&nbsp;Sleeved Rib Finish at the Hemlines Brand logo on the Side Chest Model...",
-     "category": "jacket",
-     "gender": "men",
-     "id": 336
-    },
-    {
-     "image1": "https:\/\/www.koovs.com\/collections\/men-outerwear",
-     "image2": "https:\/\/www.koovs.com\/collections\/men-outerwear",
-     "brand": "Garcon",
-     "info": "Long Sleeve Quilted Jacket",
-     "price": 3199,
-     "oprice": 1599,
-     "description": "Quilted Jacket Full&nbsp;Sleeved Rib Finish at the Hemlines Brand logo on the Side Chest Model...",
-     "category": "jacket",
-     "gender": "men",
-     "id": 337
-    },
+    null,
+    null,
+    null,
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/products\/shu_18-6-211051.jpg?v=1677143829",
-     "image2": "https:\/\/www.koovs.com\/collections\/men-outerwear",
      "brand": "SHU",
      "info": "Ripstop Unisex Anorak",
      "price": 6990,
@@ -4273,7 +4046,6 @@
     },
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/files\/0500.jpg?v=1684237767",
-     "image2": "https:\/\/www.koovs.com\/collections\/men-outerwear",
      "brand": "SHU",
      "info": "Ripstop Unisex Anorak",
      "price": 6990,
@@ -4286,7 +4058,6 @@
     },
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/files\/0490.jpg?v=1684237810",
-     "image2": "https:\/\/www.koovs.com\/collections\/men-outerwear",
      "brand": "SHU",
      "info": "Ripstop Unisex Anorak",
      "price": 6990,
@@ -4299,7 +4070,6 @@
     },
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/products\/1-355.jpg?v=1670568598",
-     "image2": "https:\/\/www.koovs.com\/collections\/men-outerwear",
      "brand": "Bravesoul",
      "info": "Fleece Zipper Winter Jacket",
      "price": 1790,
@@ -4312,7 +4082,6 @@
     },
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/products\/TCCM2163BLACK4273_800x_a7bdd570-8c02-4b5b-bab3-8616b809d602.jpg?v=1671193661",
-     "image2": "https:\/\/www.koovs.com\/collections\/men-outerwear",
      "brand": "The Couture Club",
      "info": "Fur Applique Bomber - Black",
      "price": 10600,
@@ -4325,7 +4094,6 @@
     },
     {
      "image1": "https:\/\/cdn.shopify.com\/s\/files\/1\/0677\/1464\/6315\/products\/BANDANAPRINTDISTRESSEDDENIMJACKET-BLUEWASH2_800x_2cddb996-837c-4959-b34e-ce21386433c9.webp?v=1671193321",
-     "image2": "https:\/\/www.koovs.com\/collections\/men-outerwear",
      "brand": "The Couture Club",
      "info": "Bandana Print Distressed Denim Jacket - Blue Wash",
      "price": 3700,
@@ -5088,11 +4856,302 @@
      "category": "shorts",
      "gender": "men",
      "id": 404
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/arkkcorrected-01.jpg?v=1668322666&amp;width=533",
+     "image2": "https:\/\/www.koovs.com\/cdn\/shop\/files\/AR2022Q2OSERRAMESHS-SPMarshmallow-ParadiseGreen-2.jpg?v=1684322654&amp;width=533",
+     "brand": "Arkk Copenhagen",
+     "info": "Oserra Mesh S-SP - Marshamallow Paradise Green",
+     "price": "Rs. 10,990.00",
+     "oprice": "Rs. 10,990.00",
+     "color": "Grey",
+     "description": "Comfortable Lightweight Vegan Breathable The Oserra mesh S-SP is one of ARKK Copenhagen's most bold...",
+     "category": "footwear",
+     "gender": "men",
+     "id": 405
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/example-600x800-for-product-catalogue-07_7bd9986f-ed5f-4803-8f8b-5194af5df213.jpg?v=1668171912&amp;width=533",
+     "image2": "https:\/\/www.koovs.com\/cdn\/shop\/files\/2020Q3_CRAFT_ND68LEATHERES-C18UNISEXWhite-7.jpg?v=1684322885&amp;width=533",
+     "brand": "Arkk Copenhagen",
+     "info": "Visuklass Leather S-C18",
+     "price": "Rs. 9,990.00",
+     "oprice": "Rs. 9,990.00",
+     "color": "Blue",
+     "description": "Comfortable Breathable&nbsp; Durable Stability A Visually Classic looking shoe, hence the name - Visuklass. We...",
+     "category": "footwear",
+     "gender": "men",
+     "id": 406
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/comatoestemplpate-01_38280a15-65ae-40d8-aa2f-f3c6a4d74707.jpg?v=1677146706&amp;width=533",
+     "brand": "NIKE",
+     "info": "Nike Air Max Impact 2",
+     "price": "Rs. 8,195.00",
+     "oprice": "Rs. 8,195.00",
+     "description": "Play with fearlessness in the Nike Air Max Impact 2. Built for powerful players who...",
+     "category": "footwear",
+     "gender": "men",
+     "id": 407
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/example-600x800-for-product-catalogue-09_d12180a2-5086-4fd8-a290-839cac61b933.jpg?v=1668171862&amp;width=533",
+     "image2": "https:\/\/www.koovs.com\/cdn\/shop\/files\/AR2022Q2OSERRAMESHS-SPWhite-WindGrey-2.jpg?v=1684322706&amp;width=533",
+     "brand": "Arkk Copenhagen",
+     "info": "Oserra Mesh S-SP - White Wind Grey",
+     "price": "Rs. 10,990.00",
+     "oprice": "Rs. 10,990.00",
+     "color": "Black",
+     "description": "Comfortable Lightweight Vegan Breathable The Oserra mesh S-SP is one of ARKK Copenhagen's most bold...",
+     "category": "footwear",
+     "gender": "men",
+     "id": 408
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/nike-air-max-scorpion-womens-triple-black-dj4702-002-6RESIZE-06.jpg?v=1677072294&amp;width=533",
+     "brand": "Nike",
+     "info": "Nike Air Max Scorpion",
+     "price": "Rs. 22,995.00",
+     "oprice": "Rs. 22,995.00",
+     "color": "Green",
+     "description": "The Nike Air Max Scorpion stands out thanks to its modern and ultra-cushioned silhouette. This...",
+     "category": "footwear",
+     "gender": "men",
+     "id": 409
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/comatoestemplpate_aa96a303-c7df-4922-9937-7409e828ef82.jpg?v=1677070299&amp;width=533",
+     "brand": "NIKE",
+     "info": "Lebron XVIII",
+     "price": "Rs. 17,595.00",
+     "oprice": "Rs. 17,595.00",
+     "color": "Purple",
+     "description": "Closure: Lace-Up Shoe Width: Medium Moulded, Padded Collar Fits Snugly Around The Ankle Meant to...",
+     "category": "footwear",
+     "gender": "men",
+     "id": 410
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/example-600x800-for-product-catalogue-09_e299833a-868a-4a1e-a0b0-3d64871c76e2.jpg?v=1668171869&amp;width=533",
+     "image2": "https:\/\/www.koovs.com\/cdn\/shop\/files\/AR2022Q2OSERRAMESHS-SPMarshmallow-VeiledRose-2.jpg?v=1684322741&amp;width=533",
+     "brand": "Arkk Copenhagen",
+     "info": "Oserra Mesh S-SP - Marshamallow Velled Rose",
+     "price": "Rs. 10,990.00",
+     "oprice": "Rs. 10,990.00",
+     "description": "Comfortable Lightweight Vegan Breathable The Oserra mesh S-SP is one of ARKK Copenhagen's most bold...",
+     "category": "footwear",
+     "gender": "men",
+     "id": 411
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/comatoestemplpate-01_62643bf0-32f2-44df-aab5-eae22c2b5092.jpg?v=1677224233&amp;width=533",
+     "brand": "NIKE",
+     "info": "Lebron XVIII Low",
+     "price": "Rs. 14,495.00",
+     "oprice": "Rs. 14,495.00",
+     "color": "Black",
+     "description": "Become a force of nature on the court like the King himself when you lace...",
+     "category": "footwear",
+     "gender": "men",
+     "id": 412
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/Example600x800forproductcatalogue-06_74600393-7a97-4afe-8139-c2f2cf207f6b.jpg?v=1669984351&amp;width=533",
+     "brand": "NIKE",
+     "info": "Jordan Delta Prm",
+     "price": "Rs. 12,495.00",
+     "oprice": "Rs. 12,495.00",
+     "description": "Get a seamless experience with koovs.",
+     "category": "footwear",
+     "gender": "men",
+     "id": 413
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/Example600x800forproductcatalogue-04_834f8f45-e9b3-420d-a4a3-00fdca88907f.jpg?v=1669986046&amp;width=533",
+     "brand": "NIKE",
+     "info": "Nike Waffle One",
+     "price": "Rs. 8,295.00",
+     "oprice": "Rs. 8,295.00",
+     "color": "Grey",
+     "description": "Get a seamless experience with koovs.",
+     "category": "footwear",
+     "gender": "men",
+     "id": 414
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/example-600x800-for-product-catalogue-07_b52ae909-0891-444e-a612-e779beca631e.jpg?v=1668171905&amp;width=533",
+     "image2": "https:\/\/www.koovs.com\/cdn\/shop\/files\/AR2021Q1_NOS_RAVENMESHS-E15UNISEXJetBlack-White-7.jpg?v=1684322769&amp;width=533",
+     "brand": "Arkk Copenhagen",
+     "info": "Raven mesh PET S-E15 - Black White",
+     "price": "Rs. 9,990.00",
+     "oprice": "Rs. 9,990.00",
+     "color": "Black",
+     "description": "Comfortable Lightweight Easy slip-on Vegan Breathable Our iconic Raven sneaker in a recycled version, made...",
+     "category": "footwear",
+     "gender": "men",
+     "id": 415
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/example-600x800-for-product-catalogue-01_79a4f997-896f-4b08-97fc-6dbc8cde3a4a.jpg?v=1668171883&amp;width=533",
+     "image2": "https:\/\/www.koovs.com\/cdn\/shop\/files\/AR2022Q2FORTHLINEFGPETVULKNVIBRAMMarshmallow-PeachCobber-2.jpg?v=1684322624&amp;width=533",
+     "brand": "Arkk Copenhagen",
+     "info": "Forthline FG PET Vulkn Vibram",
+     "price": "Rs. 13,990.00",
+     "oprice": "Rs. 13,990.00",
+     "color": "Grey",
+     "description": "Comfortable&nbsp; Lightweight&nbsp; Easy slip-on&nbsp; Vegan&nbsp; Breathable One of our favorites, so comfortable, the Forthline is...",
+     "category": "footwear",
+     "gender": "men",
+     "id": 416
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/1025912_p_pdp.jpg?v=1668141743&amp;width=533",
+     "image2": "https:\/\/www.koovs.com\/cdn\/shop\/files\/705-1025912_OLIVE-DRAB-BIRCH.jpg?v=1684323658&amp;width=533",
+     "brand": "KEEN",
+     "info": "NXIS EVO",
+     "price": "Rs. 14,990.00",
+     "oprice": "Rs. 14,990.00",
+     "color": "Dark grey",
+     "description": "The room-for-your-toes comfort, protection, and stability of our iconic hiker and gave it a running...",
+     "category": "footwear",
+     "gender": "men",
+     "id": 417
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/example-600x800-for-product-catalogue-07_bb51aa57-939d-4a9c-be10-0bd976f04b14.jpg?v=1668171898&amp;width=533",
+     "image2": "https:\/\/www.koovs.com\/cdn\/shop\/files\/AR2022Q2CRUISRMESHVULKNVIBRAMWhite-PeachCobber-2.jpg?v=1684322591&amp;width=533",
+     "brand": "Arkk Copenhagen",
+     "info": "Cruisr Mesh Vulkn Vibram - White Peach Cobber",
+     "price": "Rs. 14,990.00",
+     "oprice": "Rs. 14,990.00",
+     "color": "Navy",
+     "description": "Comfortable Lightweight Breathable Durable The Cruisr is durable, technical and ready to make long walks...",
+     "category": "footwear",
+     "gender": "men",
+     "id": 418
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/1026027_p_pdp.jpg?v=1668141728&amp;width=533",
+     "image2": "https:\/\/www.koovs.com\/cdn\/shop\/files\/705-1026027_DRIZZLE-PURPLE.jpg?v=1684323726&amp;width=533",
+     "brand": "KEEN",
+     "info": "UNEEK SNK - DRIZZLE-PURPLE",
+     "price": "Rs. 12,990.00",
+     "oprice": "Rs. 12,990.00",
+     "color": "Navy",
+     "description": "This ultra-comfy, open-air adventure sneaker pushes boundaries so you can, too. With a contoured, adjustable...",
+     "category": "footwear",
+     "gender": "men",
+     "id": 419
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/example-600x800-for-product-catalogue-06_6d763efe-319f-42f0-9b24-b9f7a59209f9.jpg?v=1668171891&amp;width=533",
+     "image2": "https:\/\/www.koovs.com\/cdn\/shop\/files\/AR2022Q2CRUISRMESHVULKNVIBRAMWindGrey-PeachCobber-3.jpg?v=1684322553&amp;width=533",
+     "brand": "Arkk Copenhagen",
+     "info": "Cruisr Mesh Vulkn Vibram - Grey Peach Cobber",
+     "price": "Rs. 14,990.00",
+     "oprice": "Rs. 14,990.00",
+     "description": "Comfortable Lightweight Breathable Durable The Cruisr is durable, technical and ready to make long walks...",
+     "category": "footwear",
+     "gender": "men",
+     "id": 420
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/1022377_p_pdp.jpg?v=1668141725&amp;width=533",
+     "image2": "https:\/\/www.koovs.com\/cdn\/shop\/files\/705-1022404_BLACK-BLACK.jpg?v=1684323694&amp;width=533",
+     "brand": "KEEN",
+     "info": "UNEEK SNK - BLACK-BLACK",
+     "price": "Rs. 12,990.00",
+     "oprice": "Rs. 12,990.00",
+     "color": "Blue",
+     "description": "\"This ultra-comfy, open-air adventure sneaker pushes boundaries so you can, too. With a contoured, adjustable...",
+     "category": "footwear",
+     "gender": "men",
+     "id": 421
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/shoestemplate2-01_218616b9-3f32-42e3-be02-b7f4bb206336.jpg?v=1677071240&amp;width=533",
+     "brand": "Nike",
+     "info": "Nike Air Zoom Superrep 3",
+     "price": "Rs. 10,295.00",
+     "oprice": "Rs. 10,295.00",
+     "color": "Black",
+     "description": "Make the most of every repeat with Nike Air Zoom SuperRep 3, redesigned to support...",
+     "category": "footwear",
+     "gender": "men",
+     "id": 422
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/shoestemplate-01.jpg?v=1669999490&amp;width=533",
+     "brand": "Nike",
+     "info": "Nike Zoom Freak 4",
+     "price": "Rs. 11,995.00",
+     "oprice": "Rs. 11,995.00",
+     "color": "Black",
+     "description": "Giannis is an incessant storm of stamina and skill that keeps coming at opponents for...",
+     "category": "footwear",
+     "gender": "men",
+     "id": 423
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/shoestemplate2-08_adb12852-b08c-484b-9195-f6a51d9e4084.jpg?v=1674226958&amp;width=533",
+     "brand": "Nike",
+     "info": "Nike Air Zoom SuperRep 3",
+     "price": "Rs. 10,295.00",
+     "oprice": "Rs. 10,295.00",
+     "color": "Black",
+     "description": "Power through each rep with a redesigned look that brings support and stability to your...",
+     "category": "footwear",
+     "gender": "men",
+     "id": 424
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/example-600x800-for-prodkuct-catalogue-08.jpg?v=1668171240&amp;width=533",
+     "brand": "Tigerbear",
+     "info": "TAURUS - SMASHING GARDENS CANVAS",
+     "price": "Rs. 2,990.00",
+     "oprice": "Rs. 2,990.00",
+     "color": "Multi",
+     "description": "Get a seamless experience with koovs.",
+     "category": "footwear",
+     "gender": "men",
+     "id": 425
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/example-600x800-for-product-tiger-bear-1-catalogue-02.jpg?v=1668171247&amp;width=533",
+     "brand": "Tigerbear",
+     "info": "TAURUS - OFF WHITE MICRODOTS",
+     "price": "Rs. 2,990.00",
+     "oprice": "Rs. 2,990.00",
+     "description": "Get a seamless experience with koovs.",
+     "category": "footwear",
+     "gender": "men",
+     "id": 426
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/example-600x800-for-prooduct-catalogue-03.jpg?v=1668171252&amp;width=533",
+     "brand": "Tigerbear",
+     "info": "TAROT - SEDONA",
+     "price": "Rs. 2,990.00",
+     "oprice": "Rs. 2,990.00",
+     "description": "Get a seamless experience with koovs.",
+     "category": "footwear",
+     "gender": "men",
+     "id": 427
+    },
+    {
+     "image1": "https:\/\/www.koovs.com\/cdn\/shop\/products\/example-600x800-for-produuct-catalogue-01.jpg?v=1668171259&amp;width=533",
+     "brand": "Tigerbear",
+     "info": "TAROT - MIXED UP KITTY",
+     "price": "Rs. 2,990.00",
+     "oprice": "Rs. 2,990.00",
+     "description": "Get a seamless experience with koovs.",
+     "category": "footwear",
+     "gender": "men",
+     "id": 428
     }
    ],
-   "cartdata":[
-    
-   ]
-  
-}
+  "cartdata":[
 
+  ]
+
+}
